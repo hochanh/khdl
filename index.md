@@ -29,7 +29,7 @@ Hoàn toàn mang tính lịch sử, _không_ phải yêu cầu bắt buộc.
 ### 1. Toán & Thống kê
 
 #### Đại số
-- Linear Algebra &rarr; [MIT / OCW]
+- Coding the Matrix: Linear Algebra through Computer Science Applications &rarr; [Brown / Coursera](https://www.coursera.org/course/matrix)
 - Linear Programming (Math 407) &rarr; [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
 
 #### Giải tích
@@ -138,7 +138,7 @@ Hoàn toàn mang tính lịch sử, _không_ phải yêu cầu bắt buộc.
 
 - [Thư viện ứng dụng R](r.html)
 - [Python và thư viện ứng dụng](python.html)
-- [Các nguôn dữ liệu](datasets.html)
+- [Các nguồn dữ liệu](datasets.html)
 
 ## VI. Tham khảo
 
