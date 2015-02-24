@@ -4,18 +4,19 @@ title: Python
 ---
 
 ## Lý thuyết
+
  * Learn Python the Hard Way [Digital](http://bit.ly/ebook-learnpyhardway) & [Book ```$23```](http://amzn.to/1hmzGw9)
  * Python [Class / Google](http://bit.ly/T4j40A)
- * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book ```$34```](http://amzn.to/1ktQ5ZU)
+ * Think Python [Digital](http://bit.ly/ebook-thinkpy) & [Book](http://amzn.to/1ktQ5ZU)
  * Introduction to Computer Science and Programming [MIT OpenCourseWare / Lectures](http://bit.ly/mit-cs)
 
 ## Thư viện
-Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
-
-_More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+   * Python for Data Analysis &rarr; [Book](http://amzn.to/Q2pI5I)
+   * [Using Python Scientifically](http://bit.ly/lecture-scipy)
+
 
  * **Machine Learning Packages**
    * [scikit-learn](http://bit.ly/py-scikit) - Tools for Data Mining & Analysis 
