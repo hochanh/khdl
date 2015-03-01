@@ -8,7 +8,7 @@ layout: default
 
 ## I. Giới thiệu
 
-- Đây là chỗ tập hợp những ghi chép về quá trình tự học của một bạn trẻ, hướng tới việc xây dựng một chương trình tự đào tạo **mở và miễn phí** ở _trình độ cao_ về **khoa học dữ liệu**.
+- Đây là nơi tập hợp những ghi chép về quá trình tự học của một bạn trẻ, hướng tới việc xây dựng một chương trình tự đào tạo **mở và miễn phí** ở _trình độ cao_ về **khoa học dữ liệu**.
 - Chương trình học đang được xây dựng, các liên kết tới các khóa học và sách có thể bị thay đổi bất cứ lúc nào.
 
 ## II. Nội dung khóa học
@@ -22,7 +22,8 @@ layout: default
 
 #### Toán
 
-- Linear Programming (Math 407) &rarr; [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
+- Problem-Solving Heuristics "How To Solve It" &rarr; [Polya / Book](http://amzn.to/1mqJRSi)
+- Linear Algebra &rarr; [[MIT OCW](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 - Coding the Matrix: Linear Algebra through Computer Science Applications &rarr; [Brown / Coursera](https://www.coursera.org/course/matrix)
 - Differential Equations in Data Science &rarr; [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 
@@ -31,10 +32,6 @@ layout: default
 - Probabilistic and Statistical Modeling in Computer Science &rarr; [Book](http://heather.cs.ucdavis.edu/probstatbook)
 - Introduction to Statistical Learning &rarr; [Stanford / Course](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 - All of Statistics &rarr; [Book]
-
-#### Giải quyết vấn đề
-
-- Problem-Solving Heuristics "How To Solve It" &rarr; [Polya / Book](http://amzn.to/1mqJRSi)
 
 ### 2. Lập trình
 
