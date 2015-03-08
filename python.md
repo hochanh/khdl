@@ -14,7 +14,6 @@ title: Python
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
-   * Python for Data Analysis &rarr; [Book](http://amzn.to/Q2pI5I)
    * [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
 

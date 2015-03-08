@@ -8,8 +8,8 @@ layout: default
 
 ## I. Giới thiệu
 
-- Đây là nơi tập hợp những ghi chép về quá trình tự học của một bạn trẻ, hướng tới việc xây dựng một chương trình tự đào tạo **mở và miễn phí** ở _trình độ cao_ về **khoa học dữ liệu**.
-- Chương trình học đang được xây dựng, các liên kết tới các khóa học và sách có thể bị thay đổi bất cứ lúc nào.
+- Đây là nơi tập hợp các liên kết tới các khóa học trực tuyến, sách và các tư liệu khác về khoa học dữ liệu.
+- Chương trình đang được xây dựng, các liên kết tới các khóa học và sách có thể bị thay đổi bất cứ lúc nào.
 
 ## II. Nội dung khóa học
 
@@ -23,7 +23,7 @@ layout: default
 #### Toán
 
 - Problem-Solving Heuristics "How To Solve It" &rarr; [Polya / Book](http://amzn.to/1mqJRSi)
-- Linear Algebra &rarr; [[MIT OCW](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
+- Linear Algebra &rarr; [MIT OCW](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 - Coding the Matrix: Linear Algebra through Computer Science Applications &rarr; [Brown / Coursera](https://www.coursera.org/course/matrix)
 - Differential Equations in Data Science &rarr; [Python Tutorial](http://bit.ly/ipynb-differentialeq)
 
